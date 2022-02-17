@@ -1,0 +1,56 @@
+.profile-card {
+  background-color: transparent;
+  border: 1px solid #c3caea;
+  display: flex;
+  align-items: center;
+  padding: 5px 7px;
+  width: max-content;
+  border-radius: 7px;
+  margin-left: 10px;
+  margin-bottom: 5px;
+  padding-right: 10px;
+}
+
+.initial-div {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: #10b981;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.initial-div p {
+  color: #fff;
+  font-size: 20px;
+}
+
+.details-div {
+  width: 65%;
+  margin: 3px 9px;
+  float: right;
+}
+
+.details-div p {
+  font-size: 14px;
+  color: #fff;
+  margin: 3px 0px;
+}
+
+.stars {
+  width: 100px;
+}
+
+.delete-btn {
+  width: 10%;
+  background-color: transparent;
+  outline: none;
+  border: 0px;
+  padding: 0px;
+}
+
+.delete-btn img {
+  width: 30px;
+  height: 30px;
+}
